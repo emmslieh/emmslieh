@@ -1,8 +1,4 @@
 - 👋 Hi, I’m @emmslieh
-- 👀 I’m interested in coding (obv)
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 emmslieh/emmslieh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
